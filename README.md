@@ -33,9 +33,11 @@ _Churn rate by age group and salary range_
 * Number of customers leaving according to the salary range.
 * Percentage of male and female in exit customers.
 * Which age group has most large churn rate?
+  
 _Churn rate by products subscribed and tenure_
 * Number of customers leaving the bank based on their products subscription.
 * Customer churn according to their tenure with bank.
+
 _Churn rate by demographics_
 * Countries having highest churn rate?
 * How many people are using credit card country wise.
