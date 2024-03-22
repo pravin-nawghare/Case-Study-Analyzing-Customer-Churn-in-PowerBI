@@ -1,7 +1,7 @@
 
 # Project Title
 
-__Customer Churn Analysis__
+### Customer Churn Analysis
 
 Introducing a revolutionary tool tailored to transform the landscape of banking analytics. This project presents a comprehensive view of customer bank churn, coupled with an in-depth analysis of churn rates. It empowers financial institutions with actionable insights, enabling them to refine their customer retention strategies and enhance operational effectiveness. This project can help banks to proactively address the factors contributing to customer attrition and unlock new avenues for sustainable growth.
 
